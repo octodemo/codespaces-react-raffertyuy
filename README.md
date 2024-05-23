@@ -1,6 +1,6 @@
-This is a Copilot Workspace Template Demo.
+# This is a Copilot Workspace Template Demo.
 
-Enter the ff. prompt
+## Todo App
 ```
 Create a todo app. The primary features include:
 - The app uses Tailwind CSS for styling throughout (update package.json and add a default tailwind.config.js and postcss.config.js)
@@ -12,6 +12,18 @@ Create a todo app. The primary features include:
 - The uses different components for different parts (e.g. AddTask, TaskList, TaskItem)
 ```
 
+Follow up prompts could be like
+**Index.css**
+- `Use light theme`
+- `Background is light blue`
+- `Create a class "complete-button" with green background.`
+- `Create a class "delete-button" with red background.`
+
+**App.jsx**
+- Add a "complete all" button that completes all tasks. Use the "complete-button" class
+- Add a "delete completed" button that deletes all completed tasks. Use the "delete-button" class.
+
+---
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
