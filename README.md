@@ -1,3 +1,17 @@
+This is a Copilot Workspace Template Demo.
+
+Enter the ff. prompt
+```
+Create a todo app. The primary features include:
+- The app uses Tailwind CSS for styling throughout (update package.json and add a default tailwind.config.js and postcss.config.js)
+- It displays a list of tasks which are either completed (Apply tailwind styling such as line-through or bg-green-100) and uncompleted.
+- A user should be able to toggle tasks between a completed and uncompleted state.
+- If a task is completed, a user should be able to delete the task using a button.
+- The user can add new tasks using an input box and the enter button.
+- If no tasks are in the list, add placeholder text to say "All tasks are complete!"
+- The uses different components for different parts (e.g. AddTask, TaskList, TaskItem)
+```
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
